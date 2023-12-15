@@ -3,9 +3,16 @@
 🦀 Rust developer\
 🐧 Linux poweruser
 
-> I am currently looking for a job.
-> I'm located in Germany and looking for a remote position with 32-40 hours of work per week.
-> You can reach me at [jplatte@posteo.de](mailto:jplatte@posteo.de).
+<details><summary><strong>💼 I am currently looking for a job.</strong></summary>
+
+I'm located in Germany and looking for a
+
+- remote position with
+- 32-40 hours of work per week
+
+You can reach me at [jplatte@posteo.de](mailto:jplatte@posteo.de).
+
+</details>
 
 ### Things I created
 
