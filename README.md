@@ -3,18 +3,6 @@
 🦀 Rust developer\
 🐧 Linux poweruser
 
-<details><summary><strong>💼 I am currently looking for a job.</strong></summary>
-
-I'm located in Germany and looking for a position as software developer that
-
-- Is remote (no relocation)
-- Is full-time or close (32-40 hours per week)
-- Preferably involves Rust
-
-You can reach me at [jplatte@posteo.de](mailto:jplatte@posteo.de).
-
-</details>
-
 ### Things I created
 
 - [caniuse.rs](https://caniuse.rs/) – Check which version of Rust stabilized a certain feature
