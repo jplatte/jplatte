@@ -14,6 +14,6 @@
 
 ### Things I contributed a lot to
 
-- [Ruma](https://ruma.io/) ([@ruma](https://github.com/ruma)) – Matrix libraries for Rust
+- [Ruma](https://ruma.dev/) ([@ruma](https://github.com/ruma)) – Matrix libraries for Rust
 - [axum](https://github.com/tokio-rs/axum) ⭐️ – Rust web application framework
 - [tower-http](https://github.com/tower-rs/tower-http/) – Rust HTTP server utilities
