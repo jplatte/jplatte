@@ -8,9 +8,9 @@
 - [caniuse.rs](https://caniuse.rs/) – Check which version of Rust stabilized a certain feature
 - [turbo.fish](https://turbo.fish/) – A little joke website
 - [cargo depgraph](https://github.com/jplatte/cargo-depgraph) - Creates graphviz dependency graphs for Rust projects that use Cargo
-- [serde_html_form](https://github.com/jplatte/serde_html_form) – Rust crate for (de-)serialization of `application/x-www-form-urlencoded` data
-- [eyeball](https://github.com/jplatte/eyeball/) – Add observability to your Rust types!
-- [hinoki](https://github.com/jplatte/hinoki) (WIP) – A simple, yet very flexible static site generator
+- [serde_html_form](https://codeberg.org/jplatte/serde_html_form) – Rust crate for (de-)serialization of `application/x-www-form-urlencoded` data
+- [eyeball](https://codeberg.org/jplatte/eyeball) – Add observability to your Rust types!
+- [hinoki](https://codeberg.org/jplatte/hinoki) (WIP) – A simple, yet very flexible static site generator
 
 ### Things I contributed a lot to
 
